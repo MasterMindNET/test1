@@ -1,5 +1,5 @@
 # test1
 about first EDITED
-
-new line added 8:15
-new line 8:18
+SMTH 8:27    
+new line added 8:15 SMTH 8:27
+new line 8:18SMTH 8:27
