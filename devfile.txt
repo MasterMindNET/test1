@@ -1,5 +1,5 @@
- devfile.txt in branch dev
-hello first Change in DEV 10:00
+devfile.txt in branch dev
+ hello first Change in DEV 10:00
 new changes in devfile.txt from dev 10:31
 changes from dev
 changes from dev 2nd time commit - 4
