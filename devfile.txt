@@ -1,3 +1,4 @@
+NEW TEXT from DEV another folderrrrrrrr
 CHANGES FROM DEV ANOTHER FOLDER
 devfile.txt in branch dev
  hello first Change in DEV 10:00
