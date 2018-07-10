@@ -3,7 +3,7 @@ devfile.txt in branch dev
 new changes in devfile.txt from dev 10:31
 changes from dev
 changes from dev 2nd time commit - 4
-<p>my==commit from Master branch 10:37<p>
+<p>my commit from Master branch 10:37<p>
 merge - 1 
 merge - 2
 dev merger - 3 
@@ -21,3 +21,4 @@ some changes here
 add FROM ANOTHER FOLDER
 from test
 !!!changes from ANOTHER FOLDER!!!
+from
