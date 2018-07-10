@@ -22,3 +22,6 @@ add FROM ANOTHER FOLDER
 from test
 !!!changes from ANOTHER FOLDER!!!
 from
+
+
+WORKING in master useing rebase
