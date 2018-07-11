@@ -10,4 +10,6 @@ rebase -rebasing branch
 
 split
 
-new stash two 
+removed line
+added line
+added line
