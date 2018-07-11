@@ -9,3 +9,5 @@ one more change2
 rebase -rebasing branch
 
 split
+
+new stash two 
