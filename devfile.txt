@@ -58,5 +58,3 @@ stash 2
 stash 3
 
 stash 4
-
-stash 4
