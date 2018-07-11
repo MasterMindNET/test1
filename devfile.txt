@@ -60,3 +60,7 @@ stash 3
 stash 4
 (space removed before) new stash (one removed)
 new added
+
+cherry-pick message form branch
+2nd cherry-pick message form branch
+cherry-pick two
