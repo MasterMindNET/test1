@@ -7,3 +7,5 @@ new line 7 10 18
 one more change2
 
 rebase -rebasing branch
+
+split
