@@ -44,4 +44,4 @@ rebase from master
 rebase HEAD^1
 one more line
 one more line
-123
+1
