@@ -42,3 +42,4 @@ git rebase from rebasing branch
 rebase from master
 
 rebase HEAD^1
+one more line
