@@ -38,3 +38,5 @@ WORKING in master useing rebase
 8
 rebasing 1 master
 git rebase from rebasing branch
+
+rebase from master
