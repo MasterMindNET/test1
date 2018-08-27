@@ -7,3 +7,4 @@ signoff added
 7th line
 
 hard reset reflog
+10th line
