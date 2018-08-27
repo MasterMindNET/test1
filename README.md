@@ -15,3 +15,4 @@ added line
 added line
 
 added line 2
+trying to imitate auto-merging
